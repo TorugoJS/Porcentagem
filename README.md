@@ -1,9 +1,14 @@
-# Porcentagem
+# Porcentagem %
 
-Fixando o javascript, html e css.
+## Decidi Desenvolver esse mini projeto para uso pessoal em meu atual trabalho .
 
-✔ DOM <br>
-✔ Lógica <br>
+## Praticando meu conhecimento em Javascript, html5 e css3...
+
+## Utilizei:
+
+### ✔ DOM <br>
+### ✔ Lógica <br>
+### ✔ Estilização com css <br>
 
 <hr>
 
